@@ -1,6 +1,6 @@
 # CLI Wizard
 
-![CLI Wizard Logo](https://banner2.cleanpng.com/20210415/kgg/transparent-web-development-icon-creation-icon-wizard-icon-6078f1f3a524c4.2826548916185389956764.jpg)
+![CLI Wizard Logo]()
 
 **CLI Wizard** is a robust and customizable template for creating powerful command-line interface (CLI) tools with Node.js. It provides a solid foundation with essential features like configuration management, argument parsing, and logging, allowing developers to focus on implementing the core functionality of their tools.
 
