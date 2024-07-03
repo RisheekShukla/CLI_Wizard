@@ -65,6 +65,10 @@ FILE STRUCTURE
 
 ![image](https://github.com/RisheekShukla/CLI_Wizard/assets/101473637/bdd28c9e-b92e-4de1-a337-851102be1b64)
 
+COMMAND LINE
+
+![image](https://github.com/RisheekShukla/CLI_Wizard/assets/101473637/a0864f99-d45d-4971-a4bc-a7cc98368b12)
+
 
 
 ## Acknowledged Libraries
