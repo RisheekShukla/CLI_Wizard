@@ -62,8 +62,8 @@ CLI Wizard supports the following commands:
 
 ## Screenshots
 FILE STRUCTURE
-![App Screenshot](![image](https://github.com/RisheekShukla/CLI_Wizard/assets/101473637/77561a30-94c4-4e60-8b4a-7d6773542791)
-)
+![image](https://github.com/RisheekShukla/CLI_Wizard/assets/101473637/bdd28c9e-b92e-4de1-a337-851102be1b64)
+
 
 
 ## Acknowledged Libraries
