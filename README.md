@@ -20,7 +20,7 @@ CLI Wizard is a robust and customizable template for creating powerful command-l
 Clone the project
 
 ```bash
-  git clone https://github.com/your-username/cli-wizard.git
+  git clone https://github.com/RisheekShukla/CLI_Wizard.git
 ```
 
 Go to the project directory
