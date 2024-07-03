@@ -84,7 +84,7 @@ Contributions are always welcome!
 
 Please feel free to submit a pull request
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=risheekshukla&label=Profile%20views&color=0e75b6&style=flat" alt="risheekshukla" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=risheekshukla&label=Project%20views&color=0e75b6&style=flat" alt="risheekshukla" /> </p>
 
 
 
