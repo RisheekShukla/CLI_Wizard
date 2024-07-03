@@ -62,6 +62,7 @@ CLI Wizard supports the following commands:
 
 ## Screenshots
 FILE STRUCTURE
+
 ![image](https://github.com/RisheekShukla/CLI_Wizard/assets/101473637/bdd28c9e-b92e-4de1-a337-851102be1b64)
 
 
